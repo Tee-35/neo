@@ -1,0 +1,21 @@
+# Environment variables — never commit secrets
+.env
+
+# Documents folder — PDFs are large binary files
+documents/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+neo_venv/
+venv/
+
+# Mac system files
+.DS_Store
+
+# Junk files
+*.code-workspace
+commands.txt
+*.code-workspace
