@@ -72,6 +72,16 @@ with st.sidebar:
     st.markdown("- What is the maximum fuel flow rate?")
     st.markdown("- What are the crash structure requirements?")
     st.divider()
+    if st.button("🗑️ Clear conversation"):
+        st.session_state.messages = [
+            {
+                "role": "assistant",
+                "content": "🕶️ Hi, I'm Neo. How may I help you today? Ask me anything about the FIA 2026 Technical Regulations and I'll find the answer from the source documents.",
+                "sources": []
+            }
+        ]
+        st.rerun()
+    st.divider()
     st.caption("Built by Tyrelle Newton · 2026")
 
 
@@ -88,11 +98,11 @@ if "messages" not in st.session_state:
     ]
 # --- Display existing chat history ---
 for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
+    with st.chat_message(message["role"], avatar="🕶️" if message["role"] == "assistant" else "🧑"):
         st.markdown(message["content"])
 
         # Show sources under assistant messages
-        if message["role"] == "assistant" and "sources" in message:
+        if message["role"] == "assistant" and "sources" in message and message["sources"]:
             with st.expander("📄 Sources"):
                 for source in message["sources"]:
                     st.caption(source)
@@ -113,7 +123,7 @@ if question := st.chat_input("Ask a question about the FIA Technical Regulations
     })
 
     # --- Generate and display the answer ---
-    with st.chat_message("assistant"):
+    with st.chat_message("assistant", avatar="🕶️"):
         with st.spinner("Searching regulations and generating answer..."):
             result = ask(question, index, embedding_model, chunks)
 
