@@ -4,7 +4,7 @@ Neo is an AI tool that lets you ask natural language questions about technical d
 
 Built by **Tyrelle Newton** as a portfolio project for a career transition into AI engineering, London 2026.
 
-[![Neo UI](assets/neo_screenshot_001.png)]  
+![Neo UI](assets/neo_screenshot_001.png)
 [![Watch the video](https://www.loom.com/share/acdea16d75774d8491bdc0af44121e5a)](https://www.loom.com/share/acdea16d75774d8491bdc0af44121e5a)
 
 ---
