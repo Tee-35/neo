@@ -5,6 +5,7 @@ Neo is an AI tool that lets you ask natural language questions about technical d
 Built by **Tyrelle Newton** as a portfolio project for a career transition into AI engineering, London 2026.
 
 ![Neo UI](assets/neo_screenshot.png)
+[![Watch the video](https://www.loom.com/share/acdea16d75774d8491bdc0af44121e5a)](https://www.loom.com/share/acdea16d75774d8491bdc0af44121e5a)
 
 ---
 
@@ -143,4 +144,4 @@ Built as part of a career transition from data analytics into AI engineering. De
 10+ years of experience in F1 motorsport, NHS healthcare, and renewables — now applying that domain knowledge to AI engineering.
 
 **Tyrelle Newton** — Data Analyst → AI Engineer
-[LinkedIn](#) · [GitHub](https://github.com/Tee-35)
+[LinkedIn](#https://www.linkedin.com/in/tyrelle-newton/) · [GitHub](https://github.com/Tee-35)
