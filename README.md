@@ -6,7 +6,7 @@ Neo is an AI tool that lets you ask natural language questions about technical d
 ![Neo UI](assets/neo_screenshot_001.png)   
 
 
-Demonstration vid below, to see in full screen [Click Here.](https://www.loom.com/share/acdea16d75774d8491bdc0af44121e5a)    
+Demonstration video below, to see in full screen [Click Here.](https://www.loom.com/share/acdea16d75774d8491bdc0af44121e5a)    
 https://www.loom.com/share/acdea16d75774d8491bdc0af44121e5a   
 
 ---
