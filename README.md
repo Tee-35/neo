@@ -144,4 +144,4 @@ Built as part of a career transition from data analytics into AI engineering. De
 10+ years of experience in F1 motorsport, NHS healthcare, and renewables — now applying that domain knowledge to AI engineering.
 
 **Tyrelle Newton** — Data Analyst → AI Engineer
-[LinkedIn](#https://www.linkedin.com/in/tyrelle-newton/) · [GitHub](https://github.com/Tee-35)
+[LinkedIn](https://www.linkedin.com/in/tyrelle-newton/) · [GitHub](https://github.com/Tee-35)
