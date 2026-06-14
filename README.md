@@ -5,7 +5,7 @@ Neo is an AI tool that lets you ask natural language questions about technical d
 
 ![Neo UI](assets/neo_screenshot_001.png)   
 
-https://www.loom.com/share/acdea16d75774d8491bdc0af44121e5a
+[Demonstration](https://www.loom.com/share/acdea16d75774d8491bdc0af44121e5a)
 
 ---
 
@@ -140,8 +140,6 @@ Response: { "question": "...", "answer": "...", "sources": [...] }
 ## About
 
 Built as part of a career transition from data analytics into AI engineering. Demonstrates end-to-end RAG pipeline construction, LLM API integration, semantic search, REST API design, and practical AI tooling in Python.
-
-10+ years of experience in F1 motorsport, NHS healthcare, and renewables — now applying that domain knowledge to AI engineering.
 
 **Tyrelle Newton** — Data Analyst → AI Engineer
 [LinkedIn](https://www.linkedin.com/in/tyrelle-newton/) · [GitHub](https://github.com/Tee-35)
